@@ -118,4 +118,5 @@ Meltdown漏洞利用现代处理器多发射、流水线的特点，乱序执行
 ## 实验结果
 
 关闭meltdown补丁后，运行run.sh可得
+![result](https://raw.githubusercontent.com/OSH-2018/4-yxyyyxxyy/master/result1.png)
 
